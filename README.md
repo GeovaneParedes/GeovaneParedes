@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @GeovaneParedes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning , Javascript, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..geovaneparedes2@gmailcom
+## 🚀 Sobre mim
+Eu sou um desenvolvedor em C#
 
-<!---
-GeovaneParedes/GeovaneParedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor em Python, especialmente em analise dados
+
+Casado com minha esposa há anos, prezo por valores de morais elevados
+
+Resposabilidade e paciência são qualidades que sempre busco denostrar.
+
+Não tenho ensino superior, pois carater e sabedoria prática não se aprende em sala de aula. Tenho o ensino medio completo.
+
+Sou estudante de ingles, sei o necessário, porém estou me esforçando em progredir mais no ingles.
+
+...
