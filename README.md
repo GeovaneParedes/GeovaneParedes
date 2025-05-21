@@ -11,10 +11,10 @@
 ###
 
 <p align="left"> 📚 Atualmente estou desenvolvendo em Csharp. Projetos pessoais.<br> 🎯 Tenho alvo de desenvolver em Java, mais não perder o cabelo. Quem sabe eu consiga.<br>🎲 Tenho formação acadêmica ensino médio completo, com pretensão de fazer ensino técnico. Eu sou um desenvolvedor em C#
-Desenvolvedor em Python, especialmente em analise dados
-Casado com minha esposa há anos, prezo por valores de morais elevados
-Resposabilidade e paciência são qualidades que sempre busco denostrar.
-Não tenho ensino superior, pois carater e sabedoria prática não se aprende em sala de aula. Tenho o ensino medio completo.
+Desenvolvedor em Python, especialmente em analise dados.<br>
+Casado com minha esposa há anos, prezo por valores de morais elevados. <br>
+Resposabilidade e paciência são qualidades que sempre busco denostrar. <br>
+Não tenho ensino superior, pois carater e sabedoria prática não se aprende em sala de aula. Tenho o ensino medio completo. Posso fazer uma ...<br>
 Sou estudante de ingles, sei o necessário, porém estou me esforçando em progredir mais no ingles.</p>
 
 ###
