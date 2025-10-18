@@ -114,36 +114,95 @@ Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS logo" title="Node.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" title="Kubernetes" />
-  <img width="12" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
+<h1 align="center">🚀 Engenheiro de Software | Python | Automação | Backend</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeovaneParedes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do DevGege"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneParedes&layout=compact&theme=onedark" alt="Linguagens mais usadas pelo DevGege"/>
+  <a href="https://github.com/GeovaneParedes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/geovane-paredes-39694b30b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:devgegepythonjr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 👨‍💻 Sobre Mim
 
-| Plataforma | Contato |
-| :--- | :--- |
-| **GitHub** | [@GeovaneParedes](https://github.com/GeovaneParedes) |
-| **LinkedIn** | [Geovane Paredes](https://www.linkedin.com/in/geovane-paredes-39694b30b) |
-| **Email** | `devgegepythonjr@gmail.com` |
+Sou **Geovane Paredes**, conhecido como **DevGege**, um **engenheiro de software apaixonado por desenvolvimento backend, automação e arquitetura de sistemas**.
 
+Trabalho principalmente com **Python e C#**, sempre buscando **eficiência, clareza e boas práticas**.  
+Gosto de entender a fundo como as coisas funcionam — **do byte ao deploy** — e transformar código em soluções de valor real.
 
-###
+> 💬 *“Não basta o código rodar, ele precisa ser escalável, limpo e resiliente.”*
+
+---
+
+## ⚙️ Stack Técnica
+
+### 🐍 **Python**
+- Estrutura modular, PEP8, tipagem e docstrings.  
+- OOP, concurrency, asyncio e semáforos.  
+- Criação de CLIs e automação de processos.  
+- Manipulação de JSON, CSV e SQL.  
+- Integrações com APIs e automação de Telegram (Pyrogram / Telethon).
+
+### 🧩 **Backend e Automação**
+- Upload e download paralelos com controle de ordem.  
+- Persistência incremental, logs estruturados e retry automático.  
+- Scripts otimizados para alto volume de dados e estabilidade.  
+
+### ☁️ **Cloud & DevOps**
+- Integrações com **AWS** e **Google Drive** via Python.  
+- Criação de rotinas automatizadas e transferência inteligente de arquivos.  
+- Interesse em arquitetura **serverless** e pipelines de dados.
+
+### 🗃️ **Banco de Dados**
+- **MySQL**, **SQLite** e manipulação de dados em alto volume.  
+- Consultas otimizadas e integração fluida com Python.  
+- ETL e análise de dados.
+
+---
+
+## 🧠 Mentalidade de Engenheiro
+
+- Busca **entendimento profundo antes da implementação**.  
+- Escreve código limpo, coeso e documentado.  
+- Preza por **resiliência, modularização e clareza técnica**.  
+- Aprende rápido e aplica princípios de arquitetura.  
+
+> 🧩 “Não procuro atalhos. Procuro soluções consistentes.”
+
+---
+
+## 💼 Profissionalismo
+
+- Comunicação clara, ética e madura.  
+- Foco em resultados, mas sem abrir mão de qualidade.  
+- Gosta de compartilhar conhecimento e inspirar outros devs.  
+- Produz documentação e projetos com padrão profissional.
+
+---
+
+## 🚀 Foco Atual
+- Desenvolvimento backend em **Python**.  
+- Manipulação e análise de dados (**SQL, JSON, CSV**).  
+- Automação de processos e integrações.  
+- Cloud computing e engenharia de software moderna.
+
+---
+
+## 🎯 Objetivos e Futuro
+- Ampliar domínio em **Java e C#**.  
+- Fortalecer prática em **testes automatizados** e **CI/CD**.  
+- Avançar em **Data Engineering** e **DevOps**.  
+- Concluir graduação em **Análise e Desenvolvimento de Sistemas**.  
+
+---
+
+<h3 align="center">✨ “Code with purpose. Build with passion.” ✨</h3>
+
+---
