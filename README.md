@@ -56,18 +56,95 @@ Sou estudante de ingles, sei o necessário, porém estou me esforçando em progr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/161204859?v=4" width="150px" alt="Foto de Perfil do DevGege"/>
+  <h1>DevGege</h1>
+  <h3>Desenvolvedor Apaixonado por Tecnologia e Back-end 💻</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/geovane-paredes-39694b30b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:geovane.paredes.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+## 👋 Sobre Mim
+
+Meu nome é **Geovane Paredes**, pode me chamar de **DevGege**! Sou um desenvolvedor **back-end** apaixonado por programação e focado em entregar os melhores resultados.
+
+Sou uma pessoa caseira, valorizo a moral e a ética, e busco sempre demonstrar **responsabilidade** e **paciência** em meus projetos.
+
+> "Não me apego a linguagem, porém amo Python e C#."
+
+---
+
+## 🚀 O que estou fazendo
+
+Atualmente, meus estudos e projetos pessoais estão focados em:
+
+* **📚 Python:** Desenvolvendo projetos de **Análise de Dados** (manipulação de `SQL`, `JSON`, `CSV`).
+* **🎯 C# (.NET):** Estudando para me tornar um desenvolvedor de software robusto usando este *framework* poderoso.
+* **📈 Inglês:** Focado em progredir no idioma para absorver mais conhecimento da comunidade global de tecnologia.
+
+**🎓 Formação:** Tenho Ensino Médio Completo e estou me preparando para fazer um curso Técnico na área de TI, com pretensão futura de ingressar em **ADS** e **Engenharia de Software**.
+
+---
+
+## 🛠️ Minhas Habilidades
+
+Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas das tecnologias com as quais trabalho ou estou estudando intensamente:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python - Foco Principal" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" title="C# - Foco Principal" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" title=".NET" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" title="Django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS logo" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" title="Kubernetes" />
+  <img width="12" />
+  </div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeovaneParedes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do DevGege"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneParedes&layout=compact&theme=onedark" alt="Linguagens mais usadas pelo DevGege"/>
+</div>
+
+---
+
+## 🤝 Conecte-se Comigo
+
+| Plataforma | Contato |
+| :--- | :--- |
+| **GitHub** | [@GeovaneParedes](https://github.com/GeovaneParedes) |
+| **LinkedIn** | [Geovane Paredes](https://www.linkedin.com/in/geovane-paredes-39694b30b) |
+| **Email** | `devgegepythonjr@gmail.com` |
+th="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
