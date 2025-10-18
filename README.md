@@ -123,7 +123,7 @@ Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas da
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" title="Kubernetes" />
   <img width="12" />
-  </div>
+</div>
 
 ---
 
@@ -144,8 +144,6 @@ Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas da
 | **GitHub** | [@GeovaneParedes](https://github.com/GeovaneParedes) |
 | **LinkedIn** | [Geovane Paredes](https://www.linkedin.com/in/geovane-paredes-39694b30b) |
 | **Email** | `devgegepythonjr@gmail.com` |
-th="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
+
 
 ###
