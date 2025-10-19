@@ -118,7 +118,7 @@ Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas da
 
 <div align="center">
   <a href="https://github.com/GeovaneParedes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://avatars.githubusercontent.com/u/86485961?s=400&u=5153fa1a23abcd3316a31d3c7b48262ebfbf9d82&v=4"/>
   </a>
   <a href="https://www.linkedin.com/in/geovane-paredes-39694b30b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
