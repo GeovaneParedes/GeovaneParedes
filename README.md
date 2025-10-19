@@ -57,7 +57,7 @@ Sou estudante de ingles, sei o necessário, porém estou me esforçando em progr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/161204859?v=4" width="150px" alt="Foto de Perfil do DevGege"/>
+  <img src="https://avatars.githubusercontent.com/u/86485961?s=400&u=5153fa1a23abcd3316a31d3c7b48262ebfbf9d82&v=4" width="150px" alt="Foto de Perfil do DevGege"/>
   <h1>DevGege</h1>
   <h3>Desenvolvedor Apaixonado por Tecnologia e Back-end 💻</h3>
 </div>
