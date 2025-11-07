@@ -1,60 +1,4 @@
-<h1 align="center">DevGege</h1>
 
-###
-
-<p align="left">Meu nome é Geovane Paredes, pode me chamar de DevGege. Sou apaixonado por programação.<br>Não me apego a linguagem, porém amo python e csharp. <br>Sou caseiro e não curto farra. <br>Trabalho com objetivo de entregar o melhor resultado! </p>
-
-###
-
-<h2 align="left">Sobre minha pessoa.</h2>
-
-###
-
-<p align="left"> 📚 Atualmente estou desenvolvendo em Python, especificamente analise de dados(sql, json, csv). Projetos pessoais.<br> 🎯 Tenho alvo de desenvolver em Java, mais não perder o cabelo. Quem sabe eu consiga.<br>🎲 Tenho formação acadêmica ensino médio completo, com pretensão de fazer ensino técnico. Eu estou estudando para desenvolver software em C#
-Casado com minha esposa há anos, prezo por valores de morais elevados. <br>
-Resposabilidade e paciência são qualidades que sempre busco denostrar. <br>
-Não tenho ensino superior no momento, mais pretendo fazer ADS e Engenharia de Software.<br>
-Sou estudante de ingles, sei o necessário, porém estou me esforçando em progredir mais no ingles.</p>
-
-###
-
-<h2 align="left">Sou desenvolvedor. Principalmente backend</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/86485961?s=400&u=5153fa1a23abcd3316a31d3c7b48262ebfbf9d82&v=4" width="150px" alt="Foto de Perfil do DevGege"/>
   <h1>DevGege</h1>
@@ -75,13 +19,19 @@ Sou estudante de ingles, sei o necessário, porém estou me esforçando em progr
 
 Meu nome é **Geovane Paredes**, pode me chamar de **DevGege**! Sou um desenvolvedor **back-end** apaixonado por programação e focado em entregar os melhores resultados.
 
+Trabalho principalmente com **Python e C#**, sempre buscando **eficiência, clareza e boas práticas**.  
+
+Gosto de entender a fundo como as coisas funcionam — **do byte ao deploy** — e transformar código em soluções de valor real.
+
 Sou uma pessoa caseira, valorizo a moral e a ética, e busco sempre demonstrar **responsabilidade** e **paciência** em meus projetos.
+
+> 💬 *“Não basta o código rodar, ele precisa ser escalável, limpo e resiliente.”*
 
 > "Não me apego a linguagem, porém amo Python e C#."
 
 ---
 
-## 🚀 O que estou fazendo
+## 🚀 O que estou trabalhando atualmente:
 
 Atualmente, meus estudos e projetos pessoais estão focados em:
 
@@ -126,17 +76,6 @@ Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas da
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou **Geovane Paredes**, conhecido como **DevGege**, um **engenheiro de software apaixonado por desenvolvimento backend, automação e arquitetura de sistemas**.
-
-Trabalho principalmente com **Python e C#**, sempre buscando **eficiência, clareza e boas práticas**.  
-Gosto de entender a fundo como as coisas funcionam — **do byte ao deploy** — e transformar código em soluções de valor real.
-
-> 💬 *“Não basta o código rodar, ele precisa ser escalável, limpo e resiliente.”*
 
 ---
 
