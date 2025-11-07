@@ -11,10 +11,9 @@
 ###
 
 <p align="left"> 📚 Atualmente estou desenvolvendo em Python, especificamente analise de dados(sql, json, csv). Projetos pessoais.<br> 🎯 Tenho alvo de desenvolver em Java, mais não perder o cabelo. Quem sabe eu consiga.<br>🎲 Tenho formação acadêmica ensino médio completo, com pretensão de fazer ensino técnico. Eu estou estudando para desenvolver software em C#
-Estou empenhado em ser Desenvolvedor em Python, especialmente em analise dados.<br>
 Casado com minha esposa há anos, prezo por valores de morais elevados. <br>
 Resposabilidade e paciência são qualidades que sempre busco denostrar. <br>
-Não tenho ensino superior no momento, mais pretendo fazer ADS e Engenharia de Software. Tenho o ensino medio completo.<br>
+Não tenho ensino superior no momento, mais pretendo fazer ADS e Engenharia de Software.<br>
 Sou estudante de ingles, sei o necessário, porém estou me esforçando em progredir mais no ingles.</p>
 
 ###
