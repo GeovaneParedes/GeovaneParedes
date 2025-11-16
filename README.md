@@ -42,6 +42,13 @@ Atualmente, meus estudos e projetos pessoais estão focados em:
 **🎓 Formação:** Tenho Ensino Médio Completo e estou me preparando para fazer um curso Técnico na área de TI, com pretensão futura de ingressar em **ADS** e **Engenharia de Software**.
 
 ---
+## 📊 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=geovaneparedes&show_icons=true&theme=dracula)
+
+Linguagens mais usadas:
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneparedes&layout=compact&theme=dracula)
 
 ## 🛠️ Minhas Habilidades
 
