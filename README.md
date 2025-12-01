@@ -69,9 +69,10 @@ Não apenas escrevo código; eu desenho arquiteturas. Meus projetos recentes env
 
 ### 📊 GitHub Stats
 
-![Geovane Stats](https://github-readme-stats.vercel.app/api?username=GeovaneParedes&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneParedes&layout=compact&theme=dracula&hide=html,css,shell,dockerfile&hide_border=true)
+<div align="center">
+  <img height="180" src="https://github-readme-stats-woad-gamma-74.vercel.app/api?username=GeovaneParedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Geovane Stats" />
+  <img height="180" src="https://github-readme-stats-woad-gamma-74.vercel.app/api/top-langs/?username=GeovaneParedes&layout=compact&theme=dracula&hide=html,css,shell,dockerfile&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
