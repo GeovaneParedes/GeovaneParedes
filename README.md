@@ -1,153 +1,88 @@
-
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/86485961?s=400&u=5153fa1a23abcd3316a31d3c7b48262ebfbf9d82&v=4" width="150px" alt="Foto de Perfil do DevGege"/>
-  <h1>DevGege</h1>
-  <h3>Desenvolvedor Apaixonado por Tecnologia e Back-end 💻</h3>
+  <img src="https://avatars.githubusercontent.com/u/86485961?s=400&u=5153fa1a23abcd3316a31d3c7b48262ebfbf9d82&v=4" width="150px" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.2);" alt="Foto de Perfil do DevGege"/>
+  
+  <h1 style="border-bottom: none;">Geovane Paredes (DevGege)</h1>
+  <h3>Engenheiro de Software & DevOps | Java • Python • Kubernetes</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/geovane-paredes-39694b30b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:geovaneparedes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://geovaneparedes.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-Site-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Site">
+    </a>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/geovane-paredes-39694b30b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:geovane.paredes.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+<br>
 
 ---
 
-## 👋 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-Meu nome é **Geovane Paredes**, pode me chamar de **DevGege**! Sou um desenvolvedor **back-end** apaixonado por programação e focado em entregar os melhores resultados.
+Sou um **Engenheiro de Software** focado em construir sistemas resilientes e escaláveis. Minha base sólida em **Linux** e automação me permitiu transitar do desenvolvimento Backend para a Engenharia de Plataforma (DevOps).
 
-Trabalho principalmente com **Python e C#**, sempre buscando **eficiência, clareza e boas práticas**.  
+Não apenas escrevo código; eu desenho arquiteturas. Meus projetos recentes envolvem **microsserviços em Java (Spring Boot)**, orquestração de containers com **Kubernetes** e pipelines de **CI/CD**.
 
-Gosto de entender a fundo como as coisas funcionam — **do byte ao deploy** — e transformar código em soluções de valor real.
-
-Sou uma pessoa caseira, valorizo a moral e a ética, e busco sempre demonstrar **responsabilidade** e **paciência** em meus projetos.
-
-> 💬 *“Não basta o código rodar, ele precisa ser escalável, limpo e resiliente.”*
-
-> "Não me apego a linguagem, porém amo Python e C#."
+> 💬 *"Não basta funcionar na minha máquina. O software precisa ser observável, testável e entregue com qualidade contínua."*
 
 ---
 
-## 🚀 O que estou trabalhando atualmente:
-
-Atualmente, meus estudos e projetos pessoais estão focados em:
-
-* **📚 Python:** Desenvolvendo projetos de **Análise de Dados** (manipulação de `SQL`, `JSON`, `CSV`).
-* **🎯 C# (.NET):** Estudando para me tornar um desenvolvedor de software robusto usando este *framework* poderoso.
-* **📈 Inglês:** Focado em progredir no idioma para absorver mais conhecimento da comunidade global de tecnologia.
-
-**🎓 Formação:** Tenho Ensino Médio Completo e estou me preparando para fazer um curso Técnico na área de TI, com pretensão futura de ingressar em **ADS** e **Engenharia de Software**.
-
----
-## 📊 Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=geovaneparedes&show_icons=true&theme=dracula)
-
-Linguagens mais usadas:
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneparedes&layout=compact&theme=dracula)
-
-## 🛠️ Minhas Habilidades
-
-Como desenvolvedor, principalmente focado em **Back-end**, estas são algumas das tecnologias com as quais trabalho ou estou estudando intensamente:
+### 🚀 Stack Tecnológica
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python - Foco Principal" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" title="C# - Foco Principal" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" title=".NET" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" title="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS logo" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
-<h1 align="center">🚀 Engenheiro de Software | Python | Automação | Backend</h1>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+  <br>
 
-<div align="center">
-  <a href="https://github.com/GeovaneParedes" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/86485961?s=400&u=5153fa1a23abcd3316a31d3c7b48262ebfbf9d82&v=4"/>
-  </a>
-  <a href="https://www.linkedin.com/in/geovane-paredes-39694b30b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:devgegepythonjr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
 </div>
 
 ---
 
-## ⚙️ Stack Técnica
+### 🏆 Projetos de Destaque
 
-### 🐍 **Python**
-- Estrutura modular, PEP8, tipagem e docstrings.  
-- OOP, concurrency, asyncio e semáforos.  
-- Criação de CLIs e automação de processos.  
-- Manipulação de JSON, CSV e SQL.  
-- Integrações com APIs e automação de Telegram (Pyrogram / Telethon).
-
-### 🧩 **Backend e Automação**
-- Upload e download paralelos com controle de ordem.  
-- Persistência incremental, logs estruturados e retry automático.  
-- Scripts otimizados para alto volume de dados e estabilidade.  
-
-### ☁️ **Cloud & DevOps**
-- Integrações com **AWS** e **Google Drive** via Python.  
-- Criação de rotinas automatizadas e transferência inteligente de arquivos.  
-- Interesse em arquitetura **serverless** e pipelines de dados.
-
-### 🗃️ **Banco de Dados**
-- **MySQL**, **SQLite** e manipulação de dados em alto volume.  
-- Consultas otimizadas e integração fluida com Python.  
-- ETL e análise de dados.
+| Projeto | Stack | Descrição |
+| :--- | :--- | :--- |
+| **[BancoSpring Enterprise](https://github.com/GeovaneParedes/BancoSpring)** | Java, K8s, Docker | Sistema bancário distribuído com arquitetura de microsserviços, Healthchecks e CI/CD automatizado. |
+| **[Artes da Dell](https://github.com/GeovaneParedes/ArtesDaDell)** | Spring, RabbitMQ | E-commerce com arquitetura orientada a eventos (EDA), desacoplando vendas e estoque via mensageria. |
+| **[Secretaria System](https://github.com/GeovaneParedes/SecretariaSystem)** | Spring MVC, JPA | ERP corporativo com controle de acesso (RBAC), Dashboard de BI e segurança de dados. |
 
 ---
 
-## 🧠 Mentalidade de Engenheiro
+### 📊 GitHub Stats
 
-- Busca **entendimento profundo antes da implementação**.  
-- Escreve código limpo, coeso e documentado.  
-- Preza por **resiliência, modularização e clareza técnica**.  
-- Aprende rápido e aplica princípios de arquitetura.  
+![Geovane Stats](https://github-readme-stats.vercel.app/api?username=GeovaneParedes&show_icons=true&theme=dracula&hide_border=true)
 
-> 🧩 “Não procuro atalhos. Procuro soluções consistentes.”
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneParedes&layout=compact&theme=dracula&hide=html,css,shell,dockerfile&hide_border=true)
 
 ---
 
-## 💼 Profissionalismo
+### 🌱 O que estou aprofundando agora
 
-- Comunicação clara, ética e madura.  
-- Foco em resultados, mas sem abrir mão de qualidade.  
-- Gosta de compartilhar conhecimento e inspirar outros devs.  
-- Produz documentação e projetos com padrão profissional.
-
----
-
-## 🚀 Foco Atual
-- Desenvolvimento backend em **Python**.  
-- Manipulação e análise de dados (**SQL, JSON, CSV**).  
-- Automação de processos e integrações.  
-- Cloud computing e engenharia de software moderna.
+* **Arquitetura de Microsserviços:** Padrões de Saga e Circuit Breaker.
+* **Cloud Computing:** Deploy de infraestrutura como código (Terraform/AWS).
+* **Observabilidade:** Monitoramento com Prometheus e Grafana.
 
 ---
 
-## 🎯 Objetivos e Futuro
-- Ampliar domínio em **Java e C#**.  
-- Fortalecer prática em **testes automatizados** e **CI/CD**.  
-- Avançar em **Data Engineering** e **DevOps**.  
-- Concluir graduação em **Análise e Desenvolvimento de Sistemas**.  
-
----
-
-<h3 align="center">✨ “Code with purpose. Build with passion.” ✨</h3>
-
----
+<div align="center">
+  <sub>Desenvolvido com ☕ e Java por Geovane Paredes.</sub>
+</div>
