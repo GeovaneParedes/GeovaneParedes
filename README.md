@@ -85,12 +85,21 @@ Com sólida base em **Linux**, arquiteto soluções distribuídas orientadas a e
 ### 📊 GitHub Stats & Atividade
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GeovaneParedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneParedes&layout=compact&theme=dracula&hide=html,css,shell&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img src="https://img.shields.io/github/followers/GeovaneParedes?label=Seguidores&style=for-the-badge&logo=github&color=6DB33F" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/GeovaneParedes?label=Stars&style=for-the-badge&logo=github&color=6DB33F" alt="Stars" />
 </p>
 
 <p align="center">
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=GeovaneParedes&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovaneParedes&theme=dracula" alt="Detalhes do Perfil" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeovaneParedes&theme=dracula" alt="Linguagens por Repositório" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=GeovaneParedes&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GeovaneParedes&theme=dracula&hide_border=true" alt="Gráfico de Atividade no GitHub" />
 </p>
 
 ---
